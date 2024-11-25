@@ -8,4 +8,9 @@ class MyClass
     {
         return "Hello, Composer!";
     }
+    public function sayHellWord():string
+    {
+        return "Hello Word";
+
+    }
 }
